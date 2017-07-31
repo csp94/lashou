@@ -1,0 +1,72 @@
+{
+  "data": [
+    [
+      {
+        "title" : "美食",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_99.png"
+      },
+      {
+        "title" : "电影",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_29.png"
+      },
+      {
+        "title" : "酒店",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_300.png"
+      },
+      {
+        "title" : "商城",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_shop_04.png"
+      },
+      {
+        "title" : "休闲娱乐",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_2.png"
+      },
+      {
+        "title" : "自助餐",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_189.png"
+      },
+      {
+        "title" : "KTV",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_31.png"
+      },
+      {
+        "title" : "蛋糕甜品",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_25.png"
+      }
+    ],
+    [
+      {
+          "title" : "摄影写真",
+          "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_37.png"
+      },
+      {
+        "title" : "丽人",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_442.png"
+      },
+      {
+        "title" : "生活服务",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_46.png"
+      },
+      {
+        "title" : "火锅",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_178.png"
+      },
+      {
+        "title" : "手机充值",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_7777.png"
+      },
+        {
+          "title" : "代金券",
+          "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_8888.png"
+        },
+      {
+        "title" : "今日新单",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_999.png"
+      },
+      {
+        "title" : "全部分类",
+        "image" : "https://d1.lashouimg.com/wirelessimg/cate_img/android/Cate_20170628_0.png"
+      }
+    ]
+  ]
+}

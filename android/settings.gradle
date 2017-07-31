@@ -1,0 +1,3 @@
+rootProject.name = 'lashou'
+
+include ':app'

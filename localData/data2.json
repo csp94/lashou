@@ -1,0 +1,42 @@
+{
+    "ret": 10000,
+    "msg": "成功",
+    "result": [
+        {
+            "cate_id": "99",
+            "num": "1356",
+            "cate_name": "品美食"
+        },
+        {
+            "cate_id": "2",
+            "num": "1266",
+            "cate_name": "玩翻天"
+        },
+        {
+            "cate_id": "300",
+            "num": "4101",
+            "cate_name": "找酒店"
+        },
+        {
+            "cate_id": "442",
+            "num": "1010",
+            "cate_name": "丽人吧"
+        },
+        {
+            "cate_id": "46",
+            "num": "1099",
+            "cate_name": "生活服务"
+        },
+        {
+            "cate_id": "37",
+            "num": "822",
+            "cate_name": "爱摄影"
+        },
+        {
+            "cate_id": "481",
+            "num": "108",
+            "cate_name": "勤学习"
+        }
+    ],
+    "token": ""
+}

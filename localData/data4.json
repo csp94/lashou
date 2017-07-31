@@ -1,0 +1,1546 @@
+{
+    "ret": 10000,
+    "msg": "成功",
+    "result": {
+        "goodlist": [
+            {
+                "goods_id": "13285318",
+                "product": "海悦山庄酒店",
+                "title": "豪华双床房入住1晚，免费WiFi",
+                "short_title": "【环岛路沿线】豪华双床房入住1晚，免费WiFi",
+                "value": "3688",
+                "price": "2288",
+                "bought": 4137,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "303",
+                "is_voucher": "0",
+                "left_time": 1571118,
+                "distance": "7908.6802",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/1D/DF/CqgBHliatM2AXfiMAAFD83MTE38339-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/1D/DF/CqgBHliatM2AXfiMAAFD83MTE38339-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/1D/DF/CqgBHliatM2AXfiMAAFD83MTE38339-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/1D/DF/CqgBHliatM2AXfiMAAFD83MTE38339-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.43908",
+                "lng": "118.14903",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "12545818",
+                "product": "世纪嘉华电影院",
+                "title": "单人电影票，可观看2D/3D，时尚观影品潮流，好片就来这里赏！",
+                "short_title": "【杏林】单人电影票，可观看2D/3D",
+                "value": "70",
+                "price": "31",
+                "bought": 259,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "29",
+                "is_voucher": "0",
+                "left_time": 14790318,
+                "distance": "11876.1858",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/CC/A4/CqgBHlVQbAGAOjdKAADD3r8dMjI133-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/CC/A4/CqgBHlVQbAGAOjdKAADD3r8dMjI133-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/CC/A4/CqgBHlVQbAGAOjdKAADD3r8dMjI133-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/CC/A4/CqgBHlVQbAGAOjdKAADD3r8dMjI133-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.56314",
+                "lng": "118.05424",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "9430753",
+                "product": "酷麦氧吧ktv",
+                "title": "阳光场套组，连续欢唱6小时",
+                "short_title": "【莲坂商圈】阳光场套组，连续欢唱6小时",
+                "value": "493",
+                "price": "58",
+                "bought": 213,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "31",
+                "is_voucher": "0",
+                "left_time": 14741718,
+                "distance": "5279.6653",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/8E/EA/CqgBHlRpcFyAHSB2AAB3-JG6wOg804-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/8E/EA/CqgBHlRpcFyAHSB2AAB3-JG6wOg804-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/8E/EA/CqgBHlRpcFyAHSB2AAB3-JG6wOg804-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/8E/EA/CqgBHlRpcFyAHSB2AAB3-JG6wOg804-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.47555",
+                "lng": "118.11985",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "9021769",
+                "product": "小样娱乐",
+                "title": "仅售49元，市场价306元的小样娱乐花草茶套系，中小包专享",
+                "short_title": "【集美万达广场】花草茶套系，中小包专享",
+                "value": "306",
+                "price": "49",
+                "bought": 225,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "31",
+                "is_voucher": "0",
+                "left_time": 77779518,
+                "distance": "9651.1271",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/78/F7/CqgBHlQ48SGAJTlnAADTbP2i-t4251-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/78/F7/CqgBHlQ48SGAJTlnAADTbP2i-t4251-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/78/F7/CqgBHlQ48SGAJTlnAADTbP2i-t4251-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/78/F7/CqgBHlQ48SGAJTlnAADTbP2i-t4251-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.57379",
+                "lng": "118.09147",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "7967985",
+                "product": "宝乐迪KTV",
+                "title": "仅售58元，市场价293元的宝乐迪KTV包段6小时欢唱套系，节假日通用，谁是K歌之王！环境一流，尽情欢唱！",
+                "short_title": "【五缘湾乐都汇】包段6小时欢唱套系，节假日通用",
+                "value": "293",
+                "price": "58",
+                "bought": 991,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "31",
+                "is_voucher": "0",
+                "left_time": 14790318,
+                "distance": "480.1156",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/06/10/CqgBHlLXfgGAPTzqAAIq_ROevfE700-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/06/10/CqgBHlLXfgGAPTzqAAIq_ROevfE700-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/06/10/CqgBHlLXfgGAPTzqAAIq_ROevfE700-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/06/10/CqgBHlLXfgGAPTzqAAIq_ROevfE700-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.51237",
+                "lng": "118.15969",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "12314596",
+                "product": "七星红歌会",
+                "title": "欢唱套组，适用于1-8人使用，免费提供WiFi",
+                "short_title": "【TBK枋湖客运中心】欢唱套组，适用于1-8人使用，免费提供WiFi",
+                "value": "523",
+                "price": "49",
+                "bought": 35,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "31",
+                "is_voucher": "0",
+                "left_time": 4249518,
+                "distance": "1991.5654",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/12/6A/CqgBHleeqECAYc7YAAOjChG6i5Y597-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/12/6A/CqgBHleeqECAYc7YAAOjChG6i5Y597-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/12/6A/CqgBHleeqECAYc7YAAOjChG6i5Y597-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/12/6A/CqgBHleeqECAYc7YAAOjChG6i5Y597-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.50822",
+                "lng": "118.13626",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "12114372",
+                "product": "爱唱主题量贩式KTV",
+                "title": "欢唱6.5小时套组，免费wifi，尽情欢唱，欢乐共享！",
+                "short_title": "【杏林】欢唱6.5小时套组，免费wifi",
+                "value": "1160",
+                "price": "39",
+                "bought": 5,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "31",
+                "is_voucher": "0",
+                "left_time": 1571118,
+                "distance": "13647.8185",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/00/51/CqgBHlal4b6AO5--AAC1DFUotBs157-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/00/51/CqgBHlal4b6AO5--AAC1DFUotBs157-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/00/51/CqgBHlal4b6AO5--AAC1DFUotBs157-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/00/51/CqgBHlal4b6AO5--AAC1DFUotBs157-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.56388",
+                "lng": "118.03486",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "13326488",
+                "product": "阿拉丁自助式KTV",
+                "title": "纯生啤酒欢唱套系，免费WiFi，震撼的音响效果，优质的服务，让你尽情享受，乐在其中！",
+                "short_title": "【马巷】纯生啤酒欢唱套系，免费WiFi",
+                "value": "696",
+                "price": "98",
+                "bought": 0,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "31",
+                "is_voucher": "0",
+                "left_time": 17296517,
+                "distance": "20212.6803",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/1F/3A/CqgBJljcds-AYmtCAABkLcAJNaM939-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/1F/3A/CqgBJljcds-AYmtCAABkLcAJNaM939-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/1F/3A/CqgBJljcds-AYmtCAABkLcAJNaM939-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/1F/3A/CqgBJljcds-AYmtCAABkLcAJNaM939-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.67114",
+                "lng": "118.24756",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "13282812",
+                "product": "音乐之声量贩式KTV",
+                "title": "下午场欢唱5小时中小包套系，交通便利，低音炮震撼人心，让您想怎么唱就怎么唱，让您HI到爽。",
+                "short_title": "【瑞景商圈】下午场欢唱5小时中小包套系，交通便利",
+                "value": "365",
+                "price": "58",
+                "bought": 5,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "31",
+                "is_voucher": "0",
+                "left_time": 17210117,
+                "distance": "3736.7542",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/1D/BC/CqgBJliH-2KAOBazAAChzy4wAlQ339-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/1D/BC/CqgBJliH-2KAOBazAAChzy4wAlQ339-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/1D/BC/CqgBJliH-2KAOBazAAChzy4wAlQ339-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/1D/BC/CqgBJliH-2KAOBazAAChzy4wAlQ339-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.47658",
+                "lng": "118.16071",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "13240402",
+                "product": "蓝色星空KTV",
+                "title": "学生K歌专享套系，提供免费WiFi，免费停车",
+                "short_title": "【同安区】学生K歌专享套系，提供免费WiFi，免费停车",
+                "value": "588",
+                "price": "39.9",
+                "bought": 9,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "31",
+                "is_voucher": "0",
+                "left_time": 14790318,
+                "distance": "26007.5724",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/CC/42/CqgBVFVa5iWAJePFAAChRH3FQ1U125-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/CC/42/CqgBVFVa5iWAJePFAAChRH3FQ1U125-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/CC/42/CqgBVFVa5iWAJePFAAChRH3FQ1U125-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/CC/42/CqgBVFVa5iWAJePFAAChRH3FQ1U125-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.74333",
+                "lng": "118.14651",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "13171970",
+                "product": "威秀V-Show自助式KTV",
+                "title": "欢唱套组，提供免费WiFi，可升级，多种包厢风格邀你体验",
+                "short_title": "【湖里区】欢唱套组，提供免费WiFi",
+                "value": "298",
+                "price": "48",
+                "bought": 4,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "31",
+                "is_voucher": "0",
+                "left_time": 14780118,
+                "distance": "2723.0159",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/03/9C/CqgBVFcDHQWACU5yAADxsWo6wes521-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/03/9C/CqgBVFcDHQWACU5yAADxsWo6wes521-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/03/9C/CqgBVFcDHQWACU5yAADxsWo6wes521-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/03/9C/CqgBVFcDHQWACU5yAADxsWo6wes521-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.49658",
+                "lng": "118.13326",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "12539072",
+                "product": "小龙哥冒菜",
+                "title": "现金抵用1次，可叠加使用，让你流连忘返的美味。",
+                "short_title": "【江头】现金抵用1次，可叠加使用",
+                "value": "50",
+                "price": "40",
+                "bought": 1094,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "1",
+                "left_time": 4235118,
+                "distance": "3120.8552",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/09/94/CqgBJlcQnE6ACD6pAACrEIdA3t0469-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/09/94/CqgBJlcQnE6ACD6pAACrEIdA3t0469-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/09/94/CqgBJlcQnE6ACD6pAACrEIdA3t0469-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/09/94/CqgBJlcQnE6ACD6pAACrEIdA3t0469-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.49412",
+                "lng": "118.13034",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "12271200",
+                "product": "九九大丰收鱼庄",
+                "title": "双人餐，提供免费车位，孜孜美味，欢迎品尝！",
+                "short_title": "【灌口】双人餐，提供免费车位",
+                "value": "94",
+                "price": "68",
+                "bought": 0,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "0",
+                "left_time": 4249518,
+                "distance": "19897.0729",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/8A/A8/CqgBHlRd4qOAFLwcAACx5P_aLvY102-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/8A/A8/CqgBHlRd4qOAFLwcAACx5P_aLvY102-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/8A/A8/CqgBHlRd4qOAFLwcAACx5P_aLvY102-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/8A/A8/CqgBHlRd4qOAFLwcAACx5P_aLvY102-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.60811",
+                "lng": "117.99168",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "12253330",
+                "product": "川湘人家",
+                "title": "现金抵用1次，午餐专享，全场通用",
+                "short_title": "【高崎机场】现金抵用1次，午餐专享，全场通用",
+                "value": "100",
+                "price": "85",
+                "bought": 1,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "1",
+                "left_time": 14787318,
+                "distance": "2276.177",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/79/A5/CqgBVFRAfRaAeiPCAADtrkZq9Zs903-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/79/A5/CqgBVFRAfRaAeiPCAADtrkZq9Zs903-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/79/A5/CqgBVFRAfRaAeiPCAADtrkZq9Zs903-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/79/A5/CqgBVFRAfRaAeiPCAADtrkZq9Zs903-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.52771",
+                "lng": "118.14489",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "12230574",
+                "product": "珠泽海鲜坊",
+                "title": "现金抵用1次，提供免费WiFi",
+                "short_title": "【湖里公园】现金抵用1次，提供免费WiFi",
+                "value": "100",
+                "price": "90",
+                "bought": 0,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "1",
+                "left_time": 4202718,
+                "distance": "6261.2349",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/04/61/CqgBHlbiMqqAcT9pAAB9RKVKZbA997-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/04/61/CqgBHlbiMqqAcT9pAAB9RKVKZbA997-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/04/61/CqgBHlbiMqqAcT9pAAB9RKVKZbA997-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/04/61/CqgBHlbiMqqAcT9pAAB9RKVKZbA997-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.50528",
+                "lng": "118.09423",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "12126344",
+                "product": "四川佬",
+                "title": "现金抵用1次，营业时间内通用，提供免费WiFi，美味诱惑，等你来享！",
+                "short_title": "【工业集中区】现金抵用1次，营业时间内通用，提供免费WiFi",
+                "value": "100",
+                "price": "80",
+                "bought": 0,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "1",
+                "left_time": 4249518,
+                "distance": "20159.6093",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/00/C6/CqgBJlapcIyAJf1gAACZXIsPh8g665-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/00/C6/CqgBJlapcIyAJf1gAACZXIsPh8g665-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/00/C6/CqgBJlapcIyAJf1gAACZXIsPh8g665-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/00/C6/CqgBJlapcIyAJf1gAACZXIsPh8g665-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.68866",
+                "lng": "118.12426",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11926752",
+                "product": "缘海餐厅（厦大店）",
+                "title": "2-4人餐，免费wifi，新鲜食材，尽享美味",
+                "short_title": "【厦门大学】2-4人餐，免费wifi",
+                "value": "249",
+                "price": "98",
+                "bought": 20,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "0",
+                "left_time": 4249518,
+                "distance": "9960.3409",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/CD/BC/CqgBHlVULZ6AIP_VAAF4SBzBZFQ389-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/CD/BC/CqgBHlVULZ6AIP_VAAF4SBzBZFQ389-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/CD/BC/CqgBHlVULZ6AIP_VAAF4SBzBZFQ389-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/CD/BC/CqgBHlVULZ6AIP_VAAF4SBzBZFQ389-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.44221",
+                "lng": "118.09149",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11832398",
+                "product": "黄鹤楼（新店店）",
+                "title": "现金抵用1次，全场菜品通用  可叠加使用，一席佳肴，菜靓色香，味味沁心，邀上好友，黄鹤楼等您大驾光临",
+                "short_title": "【翔安区】现金抵用1次，全场菜品通用  可叠加使用",
+                "value": "100",
+                "price": "85",
+                "bought": 1,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "408",
+                "is_voucher": "1",
+                "left_time": 14790318,
+                "distance": "13792.5726",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/F4/B0/CqgBHlYm8vKAP-E6AAC-aoLySM0882-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/F4/B0/CqgBHlYm8vKAP-E6AAC-aoLySM0882-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/F4/B0/CqgBHlYm8vKAP-E6AAC-aoLySM0882-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/F4/B0/CqgBHlYm8vKAP-E6AAC-aoLySM0882-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.60170",
+                "lng": "118.24727",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11815134",
+                "product": "老乡村旗舰店",
+                "title": "3人餐，服务周到，滋滋美味，欢乐尽享！",
+                "short_title": "【塘边】3人餐，服务周到",
+                "value": "123",
+                "price": "68",
+                "bought": 1,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "408",
+                "is_voucher": "0",
+                "left_time": 14787318,
+                "distance": "3078.6265",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/F0/AD/CqgBVFYdx5WAIUV2AAA8doo7mg4281-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/F0/AD/CqgBVFYdx5WAIUV2AAA8doo7mg4281-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/F0/AD/CqgBVFYdx5WAIUV2AAA8doo7mg4281-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/F0/AD/CqgBVFYdx5WAIUV2AAA8doo7mg4281-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.51034",
+                "lng": "118.12545",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11801714",
+                "product": "好来屋私人影院",
+                "title": "4-7人豪华大包观影1小时，精装私密情侣包厢，千部高清影片自由选播，100-130寸高清电影屏幕，5.1声道影院级音响效果，舒适观影大沙发趴得享受、躺得惬意！提供免费WiFi！",
+                "short_title": "【殿前】4-7人豪华大包观影1次，提供免费WiFi",
+                "value": "98",
+                "price": "40",
+                "bought": 0,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "29",
+                "is_voucher": "0",
+                "left_time": 14702118,
+                "distance": "4843.9613",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/F2/EC/CqgBJlYV3vaAIxv0AAMZizcomHo806-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/F2/EC/CqgBJlYV3vaAIxv0AAMZizcomHo806-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/F2/EC/CqgBJlYV3vaAIxv0AAMZizcomHo806-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/F2/EC/CqgBJlYV3vaAIxv0AAMZizcomHo806-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.52540",
+                "lng": "118.11117",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11773922",
+                "product": "一鱼多吃",
+                "title": "双人餐，提供免费WiFi、停车位",
+                "short_title": "【诚毅学院/孙厝】双人餐，提供免费WiFi、停车位",
+                "value": "60",
+                "price": "48",
+                "bought": 0,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "0",
+                "left_time": 14790318,
+                "distance": "10773.2588",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/EE/83/CqgBVFYDZBGAWn2AAACZrDZsX1E583-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/EE/83/CqgBVFYDZBGAWn2AAACZrDZsX1E583-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/EE/83/CqgBVFYDZBGAWn2AAACZrDZsX1E583-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/EE/83/CqgBVFYDZBGAWn2AAACZrDZsX1E583-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.58914",
+                "lng": "118.09483",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11699128",
+                "product": "酒宫阁酒楼",
+                "title": "现金抵用1次，可叠加使用，可免费使用包间，提供免费WiFi",
+                "short_title": "【杏林】现金抵用1次，可叠加使用",
+                "value": "100",
+                "price": "88",
+                "bought": 3,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "1",
+                "left_time": 14787318,
+                "distance": "16094.6194",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/F8/59/CqgBHlZVEvGAIOQzAACz9-p0TAc051-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/F8/59/CqgBHlZVEvGAIOQzAACz9-p0TAc051-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/F8/59/CqgBHlZVEvGAIOQzAACz9-p0TAc051-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/F8/59/CqgBHlZVEvGAIOQzAACz9-p0TAc051-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.59158",
+                "lng": "118.02472",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11671510",
+                "product": "大榕树丽笼餐厅",
+                "title": "现金抵用1次，可叠加使用，提供免费WiFi，营业时间内均可用",
+                "short_title": "【杏林】现金抵用1次，可叠加使用，提供免费WiFi",
+                "value": "100",
+                "price": "85",
+                "bought": 4,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "1",
+                "left_time": 4249518,
+                "distance": "13763.2568",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/EC/68/CqgBHlXe2WmAV6M4AABfy0ALB2U116-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/EC/68/CqgBHlXe2WmAV6M4AABfy0ALB2U116-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/EC/68/CqgBHlXe2WmAV6M4AABfy0ALB2U116-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/EC/68/CqgBHlXe2WmAV6M4AABfy0ALB2U116-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.58018",
+                "lng": "118.04405",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11374584",
+                "product": "懒猫私人影吧",
+                "title": "6人大包观影，可观看2D/3D/点播式，提供免费WiFi，时尚温馨的布局，私密的精致空间！时尚观影品潮流，好片就来这里赏！",
+                "short_title": "【江头】6人大包观影，可观看2D/3D/点播式",
+                "value": "188",
+                "price": "99",
+                "bought": 1,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "29",
+                "is_voucher": "0",
+                "left_time": 4249518,
+                "distance": "3187.2295",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/E4/22/CqgBJlWvW12ASFdAAAD2WXLqxcA222-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/E4/22/CqgBJlWvW12ASFdAAAD2WXLqxcA222-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/E4/22/CqgBJlWvW12ASFdAAAD2WXLqxcA222-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/E4/22/CqgBJlWvW12ASFdAAAD2WXLqxcA222-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.49732",
+                "lng": "118.12755",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11338556",
+                "product": "光影私人影院",
+                "title": "6人2小时观影套组，提供免费WiFi，全场通用，可叠加使用，自由点播千部蓝光2D/3D电影，5.1声道私密观影空间，可玩体感游戏。",
+                "short_title": "【莲坂商圈】6人2小时观影套组，提供免费WiFi",
+                "value": "186",
+                "price": "98",
+                "bought": 20,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "29",
+                "is_voucher": "0",
+                "left_time": 14787318,
+                "distance": "6278.9752",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/E4/3E/CqgBHlWwQMCARGxrAAC7M_wo8mE038-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/E4/3E/CqgBHlWwQMCARGxrAAC7M_wo8mE038-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/E4/3E/CqgBHlWwQMCARGxrAAC7M_wo8mE038-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/E4/3E/CqgBHlWwQMCARGxrAAC7M_wo8mE038-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.46819",
+                "lng": "118.11406",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11233290",
+                "product": "红湘诚湘菜馆",
+                "title": "100元现金抵用1次，免费停车位",
+                "short_title": "【华侨大学】100元现金抵用1次，免费停车位",
+                "value": "100",
+                "price": "88",
+                "bought": 0,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "408",
+                "is_voucher": "1",
+                "left_time": 14790318,
+                "distance": "14587.8707",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/DE/13/CqgBHlWNB26AAqlSAACpkobaDtk795-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/DE/13/CqgBHlWNB26AAqlSAACpkobaDtk795-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/DE/13/CqgBHlWNB26AAqlSAACpkobaDtk795-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/DE/13/CqgBHlWNB26AAqlSAACpkobaDtk795-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.61905",
+                "lng": "118.07618",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "11175846",
+                "product": "湘阁情酒家",
+                "title": "100元现金抵用1次，免费wifi，可叠加使用",
+                "short_title": "【同集南路】100元现金抵用1次，免费wifi",
+                "value": "100",
+                "price": "78",
+                "bought": 0,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "408",
+                "is_voucher": "1",
+                "left_time": 14790318,
+                "distance": "11058.5318",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/DA/FE/CqgBJlV6VM-ABBrqAAIT3Il7Dww170-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/DA/FE/CqgBJlV6VM-ABBrqAAIT3Il7Dww170-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/DA/FE/CqgBJlV6VM-ABBrqAAIT3Il7Dww170-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/DA/FE/CqgBJlV6VM-ABBrqAAIT3Il7Dww170-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.59953",
+                "lng": "118.10885",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "10879544",
+                "product": "黄鹤楼（新垵店）",
+                "title": "4-6人餐，免费提供车位",
+                "short_title": "【新阳商圈】4-6人餐，免费提供车位",
+                "value": "156",
+                "price": "98",
+                "bought": 9,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "0",
+                "left_time": 17468718,
+                "distance": "15786.3414",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/6A/A5/CqgBJlQYdzOAR-qbAAHlM4xX5fQ663-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/6A/A5/CqgBJlQYdzOAR-qbAAHlM4xX5fQ663-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/6A/A5/CqgBJlQYdzOAR-qbAAHlM4xX5fQ663-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/6A/A5/CqgBJlQYdzOAR-qbAAHlM4xX5fQ663-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.51851",
+                "lng": "118.00027",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "10807407",
+                "product": "蓝湾半岛酒店杏园海鲜食府",
+                "title": "现金抵用1次，午餐专享，提供免费WiFi，可免费打包",
+                "short_title": "【杏林】现金抵用1次，午餐专享，提供免费WiFi",
+                "value": "100",
+                "price": "80",
+                "bought": 18,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "410",
+                "is_voucher": "1",
+                "left_time": 4249518,
+                "distance": "12430.1691",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/1E/61/CqgBJli8_RiADmdsAAHcf0nZzRM275-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/1E/61/CqgBJli8_RiADmdsAAHcf0nZzRM275-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/1E/61/CqgBJli8_RiADmdsAAHcf0nZzRM275-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/1E/61/CqgBJli8_RiADmdsAAHcf0nZzRM275-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.57125",
+                "lng": "118.05331",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "10615711",
+                "product": "黄鹤楼（霞阳店）",
+                "title": "100元现金抵用1次，除酒水外全场通用",
+                "short_title": "【新阳商圈】100元现金抵用1次，除酒水外全场通用",
+                "value": "100",
+                "price": "78",
+                "bought": 17,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "407",
+                "is_voucher": "1",
+                "left_time": 14790318,
+                "distance": "14145.7121",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/81/89/CqgBVFRQha-AJMEWAACsYFHQ590811-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/81/89/CqgBVFRQha-AJMEWAACsYFHQ590811-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/81/89/CqgBVFRQha-AJMEWAACsYFHQ590811-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/81/89/CqgBVFRQha-AJMEWAACsYFHQ590811-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.53232",
+                "lng": "118.01837",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "10312663",
+                "product": "中影国际影城（翔安店）",
+                "title": "双人电影票，可观看2D/3D，免费停车，放映设备达到国际先进水平，可为电影爱好者带来美妙的音响效果和具有冲击力的视觉特效！",
+                "short_title": "【汇景购物广场】双人电影票，可观看2D/3D，免费停车",
+                "value": "160",
+                "price": "70.8",
+                "bought": 187,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "29",
+                "is_voucher": "0",
+                "left_time": 14787318,
+                "distance": "15181.3035",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/B7/D6/CqgBHlT2ay6ASefqAABqzMzKDyc279-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/B7/D6/CqgBHlT2ay6ASefqAABqzMzKDyc279-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/B7/D6/CqgBHlT2ay6ASefqAABqzMzKDyc279-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/B7/D6/CqgBHlT2ay6ASefqAABqzMzKDyc279-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.61930",
+                "lng": "118.24530",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "8994125",
+                "product": "厦金湾汽车影院",
+                "title": "2D汽车电影票，可连续观影两场，限当天，1车1票，限小轿车7人座（含）以下，浪漫汽车电影，唯美视听享受！",
+                "short_title": "【观音山】2D汽车电影票，可连续观影两场",
+                "value": "100",
+                "price": "50",
+                "bought": 240,
+                "is_new": 0,
+                "is_appointment": 0,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "29",
+                "is_voucher": "0",
+                "left_time": 14790318,
+                "distance": "4222.8527",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/75/CE/CqgBVFQ45tiAJVwTAADbW9U7n-o095-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/75/CE/CqgBVFQ45tiAJVwTAADbW9U7n-o095-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/75/CE/CqgBVFQ45tiAJVwTAADbW9U7n-o095-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/75/CE/CqgBVFQ45tiAJVwTAADbW9U7n-o095-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.50735",
+                "lng": "118.19744",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "8377053",
+                "product": "身临其境7D互动影院",
+                "title": "双人7D电影票，可以互动的电影，地处黄金地段，紧邻三友百货！惊险刺激的电影体验，让您从声、光、影、水、雾、烟、地震七个方面来达到身临其境的效果！",
+                "short_title": "【阿罗海城市广场】双人7D电影票，可以互动的电影",
+                "value": "80",
+                "price": "38.8",
+                "bought": 106,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "29",
+                "is_voucher": "0",
+                "left_time": 1571118,
+                "distance": "12989.7061",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/76/34/CqgBJlQqhIGAS9OsAAEMjEM6sgo448-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/76/34/CqgBJlQqhIGAS9OsAAEMjEM6sgo448-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/76/34/CqgBJlQqhIGAS9OsAAEMjEM6sgo448-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/76/34/CqgBJlQqhIGAS9OsAAEMjEM6sgo448-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.48027",
+                "lng": "118.03180",
+                "is_buyed": "0",
+                "is_collected": "0"
+            },
+            {
+                "goods_id": "12548928",
+                "product": "世纪嘉华电影院",
+                "title": "双人观影套组，可观看2D/3D，时尚观影品潮流，好片就来这里赏！",
+                "short_title": "【杏林】双人观影套组，可观看2D/3D",
+                "value": "148",
+                "price": "63.9",
+                "bought": 77,
+                "is_new": 0,
+                "is_appointment": 1,
+                "seven_refund": "1",
+                "time_refund": 1,
+                "goods_type": "1",
+                "is_sell_up": "0",
+                "new_cat": "29",
+                "is_voucher": "0",
+                "left_time": 14790318,
+                "distance": "11876.1858",
+                "images": [
+                    {
+                        "width": 440,
+                        "image": "https://d1.lashouimg.com/cms/M00/C9/84/CqgBVFVQa9uAbYKTAADD3r8dMjI490-440x280.jpg"
+                    },
+                    {
+                        "width": 220,
+                        "image": "https://d1.lashouimg.com/cms/M00/C9/84/CqgBVFVQa9uAbYKTAADD3r8dMjI490-220x140.jpg"
+                    },
+                    {
+                        "width": 100,
+                        "image": "https://d1.lashouimg.com/cms/M00/C9/84/CqgBVFVQa9uAbYKTAADD3r8dMjI490-110x70.jpg"
+                    },
+                    {
+                        "width": 275,
+                        "image": "https://d1.lashouimg.com/cms/M00/C9/84/CqgBVFVQa9uAbYKTAADD3r8dMjI490-275x175.jpg"
+                    }
+                ],
+                "l_display": 0,
+                "l_text": "",
+                "l_price": "",
+                "l_content": "",
+                "lat": "24.56314",
+                "lng": "118.05424",
+                "is_buyed": "0",
+                "is_collected": "0"
+            }
+        ],
+        "topid": [
+            {
+                "goods_id": "11986622",
+                "city_id": "196",
+                "sort": "1"
+            }
+        ]
+    },
+    "token": ""
+}

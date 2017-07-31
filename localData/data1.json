@@ -1,0 +1,42 @@
+{
+    "ret": 10000,
+    "msg": "成功",
+    "result": [
+        {
+            "s_cate_id": "189",
+            "num": "99",
+            "cate_name": "自助餐"
+        },
+        {
+            "s_cate_id": "178",
+            "num": "84",
+            "cate_name": "火锅"
+        },
+        {
+            "s_cate_id": "25",
+            "num": "599",
+            "cate_name": "蛋糕甜品"
+        },
+        {
+            "s_cate_id": "24",
+            "num": "119",
+            "cate_name": "小吃快餐"
+        },
+        {
+            "s_cate_id": "421",
+            "num": "15",
+            "cate_name": "干锅/香锅"
+        },
+        {
+            "s_cate_id": "434",
+            "num": "84",
+            "cate_name": "咖啡/酒吧"
+        },
+        {
+            "s_cate_id": "8888",
+            "num": 0,
+            "cate_name": "代金券"
+        }
+    ],
+    "token": ""
+}

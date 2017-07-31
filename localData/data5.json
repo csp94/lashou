@@ -1,0 +1,195 @@
+{
+    "ret": 10000,
+    "msg": "成功",
+    "result": {
+        "header_banner": [
+            {
+                "advert_id": "1164554",
+                "advert_name": "170329093811",
+                "advert_type": "4",
+                "title": "五洲航空专做机票特卖的网站",
+                "main_title": "",
+                "sub_title": "",
+                "content": "http://wuzhouair.com/index.html?source=lashou",
+                "img_big": "",
+                "img_mid": "https://d1.lashouimg.com/wirelessimg/1490751737_zhuanti.jpg",
+                "update_time": "2017-06-09 15:48:46",
+                "img_mid2": "",
+                "img_preferential": "",
+                "share_info": {
+                    "url": "http://wuzhouair.com/index.html?source=lashou",
+                    "body": "",
+                    "img_url": "https://d1.lashouimg.com/wirelessimg/1490751737_zhuanti.jpg"
+                },
+                "sub_title_color": "",
+                "main_title_color": ""
+            },
+            {
+                "advert_id": "1182340",
+                "advert_name": "170714092426",
+                "advert_type": "4",
+                "title": "超值零食,补足能量",
+                "main_title": "",
+                "sub_title": "",
+                "content": "https://d1.lashouimg.com/wirelessimg/activity/diyiqi170713172450/index.html",
+                "img_big": "",
+                "img_mid": "https://d1.lashouimg.com/wirelessimg/1499995387_zhuanti.jpg",
+                "update_time": "2017-07-14 09:24:29",
+                "img_mid2": "",
+                "img_preferential": "",
+                "share_info": {
+                    "url": "https://d1.lashouimg.com/wirelessimg/activity/diyiqi170713172450/index.html",
+                    "body": "",
+                    "img_url": "https://d1.lashouimg.com/wirelessimg/1499995387_zhuanti.jpg"
+                },
+                "sub_title_color": "",
+                "main_title_color": ""
+            }
+        ],
+        "center_banner": [
+            {
+                "advert_id": "1178192",
+                "advert_name": "170627152110",
+                "advert_type": "8",
+                "title": "冰封高温,夏日清爽",
+                "main_title": "",
+                "sub_title": "",
+                "content": "Html/activityMulti/adverts/170612175704-170612175957-170612180127/tpl/20170619",
+                "img_big": "",
+                "img_mid": "https://d1.lashouimg.com/wirelessimg/1498548002_zhuanti.jpg",
+                "update_time": "2017-07-03 11:12:37",
+                "img_mid2": "https://d1.lashouimg.com/wirelessimg/1498548007_zhuanti.jpg",
+                "img_preferential": "",
+                "share_info": {
+                    "url": "https://d1.lashouimg.com/wirelessimg/activity/bingfenggaowen170619093205/index.html?fr=15397",
+                    "body": "这个夏日酷暑难耐,快来这里避暑吧！",
+                    "img_url": "https://d1.lashouimg.com/wirelessimg/1498548026_zhuanti.jpg"
+                },
+                "sub_title_color": "",
+                "main_title_color": ""
+            },
+            {
+                "advert_id": "1176252",
+                "advert_name": "170609141903",
+                "advert_type": "13",
+                "title": "拉手电影票,优惠4折起",
+                "main_title": "",
+                "sub_title": "",
+                "content": "lashougroup://m.lashou.com/list.php?cat=29&order=4",
+                "img_big": "",
+                "img_mid": "https://d1.lashouimg.com/wirelessimg/1498788244_zhuanti.png",
+                "update_time": "2017-06-30 10:22:54",
+                "img_mid2": "https://d1.lashouimg.com/wirelessimg/1498788250_zhuanti.png",
+                "img_preferential": "",
+                "share_info": {
+                    "url": "lashougroup://m.lashou.com/list.php?cat=29&order=4",
+                    "body": "暑期大片季，小拉带你嗨翻天",
+                    "img_url": "https://d1.lashouimg.com/wirelessimg/1498788290_zhuanti.jpg"
+                },
+                "sub_title_color": "",
+                "main_title_color": ""
+            },
+            {
+                "advert_id": "1177522",
+                "advert_name": "170703093130",
+                "advert_type": 3,
+                "title": "啤酒撸串,深夜正确打开方式",
+                "main_title": "",
+                "sub_title": "",
+                "content": "advert_theme_contents7",
+                "img_big": "",
+                "img_mid": "https://d1.lashouimg.com/wirelessimg/1499045421_zhuanti.png",
+                "update_time": "2017-07-03 10:10:37",
+                "img_mid2": "https://d1.lashouimg.com/wirelessimg/1499045427_zhuanti.png",
+                "img_preferential": "",
+                "share_info": {
+                    "url": "https://m.lashou.com/zhuanti/banner_zt.php?kid=170703093130",
+                    "body": "",
+                    "img_url": "https://d1.lashouimg.com/wirelessimg/1499045449_zhuanti.jpg"
+                },
+                "sub_title_color": "",
+                "main_title_color": ""
+            }
+        ],
+        "shopping_banner": null,
+        "center_top_banner": null,
+        "bottom_two_banner": null,
+        "bottom_four_banner": null,
+        "bottom_big_banner": null,
+        "text_banner": [
+            {
+                "advert_id": "1176371",
+                "advert_name": "161202181146",
+                "advert_type": "13",
+                "title": "优惠4折起",
+                "main_title": "",
+                "sub_title": "",
+                "content": "lashougroup://m.lashou.com/list.php?cat=29&order=4",
+                "img_big": "",
+                "update_time": "2017-06-30 10:23:19",
+                "img_mid2": "",
+                "img_preferential": "",
+                "share_info": {
+                    "url": "lashougroup://m.lashou.com/list.php?cat=29&order=4",
+                    "body": "暑期大片季，小拉带你嗨翻天",
+                    "img_url": "https://d1.lashouimg.com/wirelessimg/1498789218_zhuanti.jpg"
+                },
+                "sub_title_color": "",
+                "main_title_color": "",
+                "tag": "拉手电影"
+            }
+        ],
+        "cate_banner": null,
+        "full_screen_banner": null,
+        "weekly_banner": [
+            {
+                "advert_id": "1182373",
+                "advert_name": "170609120605",
+                "advert_type": "4",
+                "title": "夏天就这样,做对了吗",
+                "main_title": "",
+                "sub_title": "",
+                "content": "https://d1.lashouimg.com/wirelessimg/activity/zhoukanapp170714095602/index.html",
+                "img_big": "",
+                "update_time": "2017-07-14 16:28:35",
+                "img_mid2": "",
+                "img_preferential": "",
+                "share_info": {
+                    "url": "https://d1.lashouimg.com/wirelessimg/activity/zhoukanwap170714095125/index.html?fr=15398",
+                    "body": "炎热的夏季，健康、合理、轻松地瘦身减脂……",
+                    "img_url": "https://d1.lashouimg.com/wirelessimg/1500020857_zhuanti.jpg"
+                },
+                "sub_title_color": "",
+                "main_title_color": "",
+                "tag": "拉手周刊"
+            }
+        ],
+        "preferential_banne": null,
+        "miaosha_banner": null,
+        "center_three_banner": [],
+        "center_slip_banner": [
+            {
+                "advert_id": "1182177",
+                "advert_name": "170711170847",
+                "advert_type": "4",
+                "title": "拉手邀您看《烈火狼之笼斗》",
+                "main_title": "",
+                "sub_title": "",
+                "content": "https://m.lashou.com/huodong/spread.php?wl=http%3a%2f%2fm.iqiyi.com%2fv_19rr7gywv4.html",
+                "img_big": "",
+                "img_mid": "https://d1.lashouimg.com/wirelessimg/1499763298_zhuanti.jpg",
+                "update_time": "2017-07-11 17:16:59",
+                "img_mid2": "",
+                "img_preferential": "",
+                "share_info": {
+                    "url": "https://m.lashou.com/huodong/spread.php?wl=http%3a%2f%2fm.iqiyi.com%2fv_19rr7gywv4.html",
+                    "body": "正义战胜邪恶的智斗匪徒的大战，绝对令你震撼",
+                    "img_url": "https://d1.lashouimg.com/wirelessimg/1499763330_zhuanti.jpg"
+                },
+                "sub_title_color": "",
+                "main_title_color": ""
+            }
+        ]
+    },
+    "token": ""
+}
